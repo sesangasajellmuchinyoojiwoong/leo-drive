@@ -1,6 +1,3 @@
-var sum = 2
-var sam = 0
-for (var i = 1; i < 11; i++) {
-    sam += i;
+for (var i = 1; i < 6; i++) {
+    console.log(i * 2);
 }
-console.log(sam)
